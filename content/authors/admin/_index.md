@@ -6,11 +6,11 @@ title: Jor Vredeveld
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's student Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tilburg University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
