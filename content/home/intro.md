@@ -10,7 +10,7 @@ subtitle = "Data Science and Machine Learning Projects"
 
 [design.background]
   # Background color.
-  color = "#090a0b"
+  color = "#273c8a"
 
   # Text color (true=light or false=dark).
   text_color_light = true
